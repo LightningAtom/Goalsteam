@@ -1,4 +1,4 @@
-
+{source}
 
 <?php
 
@@ -134,3 +134,4 @@ $player = new Player();
 }
 ?>
 
+{/source}
